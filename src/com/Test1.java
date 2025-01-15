@@ -6,8 +6,14 @@ public class Test1 {
 		
 			System.out.println("TEST CASE 1");
 			
+			int i = 0;
+			System.out.println("aaaaaaaaaaaaaaaaa");
+			
 			String s = "Java";
 			System.out.println("bbbbbbbbbbbbbbbbbb");
+
+			
+
 	}
 
 }
